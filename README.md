@@ -1,5 +1,5 @@
-### Hi there 👋
-
+###  👋🏻 Hi, I'm Kartikeya.
+Former Software Engineering Intern at Intuit. I'm a 4th year B.E. Computer Engineering student at NSIT. 
 <!--
 **kartikeyakhullar/kartikeyakhullar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
