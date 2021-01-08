@@ -3,6 +3,8 @@ Former Software Engineering Intern at Intuit. I'm a 4th year B.E. Computer Engin
 
 - 🌱 In 2021 I'm planning to learn Redux, TypeScript, Docker and Kubernetes.
 - 🔭 I’m currently working on a NodeJS project.
+- 🤔 I might try some Animations as well. 
+
 <!--
 **kartikeyakhullar/kartikeyakhullar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
