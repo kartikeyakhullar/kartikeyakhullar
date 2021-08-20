@@ -1,5 +1,5 @@
 ###  👋🏻 Hi, I'm Kartikeya.
-Former Software Engineering Intern at Intuit. I'm a 4th year B.E. Computer Engineering student at NSIT. 
+Software Engineer at Intuit. 
 
 - 🌱 In 2021 I'm planning to learn Redux, TypeScript, Docker, Kubernetes and System Design.
 - 🔭 I’m currently working on a NodeJS project.
